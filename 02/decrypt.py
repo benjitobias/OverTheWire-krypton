@@ -1,0 +1,4 @@
+Encrypted was OMQEMDUEQMEK
+Offset was 12
+
+CAESARISEASY
